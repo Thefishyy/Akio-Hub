@@ -22,7 +22,16 @@
 
 Currently supports multiple games with Auto Farm and Teleport features.
 
-*(You can update this section later with a full game list)*
+## ⚠️ Disclaimer
+
+This is a third-party script for Roblox.
+Use at your own risk.
+Some games may detect and punish the use of exploits.
+
+## 📬 Contact / Support
+
+**Discord**: haunt_012 - n1x6.a
+**Repository**: Akio-Hub
 
 ## 📌 How to Use
 
