@@ -18,9 +18,20 @@
 - **No Latency Delays** — Smooth execution
 - **No FPS Impact** — Lightweight and efficient
 
-## 🚀 Installation
+## 🎮 Supported Games
 
-Simply execute this script in your Roblox executor:
+Currently supports multiple games with Auto Farm and Teleport features.
+
+*(You can update this section later with a full game list)*
+
+## 📌 How to Use
+
+1. Open your preferred Roblox executor
+2. Paste the loadstring below
+3. Execute the script
+4. Enjoy the Fluent UI interface
+
+## 💾 Loadstring
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Thefishyy/Akio-Hub/refs/heads/main/main.lua", true))()
