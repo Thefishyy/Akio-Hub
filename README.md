@@ -20,7 +20,9 @@
 
 ## 🎮 Supported Games
 
-Currently supports multiple games with Auto Farm and Teleport features.
++1 Ladder Per Click
+Reborn as Swordsman (NOT FINISHED)
+Build a Base and Steal(NOT FINISHED)
 
 ## ⚠️ Disclaimer
 
