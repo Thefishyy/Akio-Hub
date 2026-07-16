@@ -31,7 +31,6 @@ Some games may detect and punish the use of exploits.
 ## 📬 Contact / Support
 
 **Discord**: haunt_012 - n1x6.a
-**Repository**: Akio-Hub
 
 ## 📌 How to Use
 
