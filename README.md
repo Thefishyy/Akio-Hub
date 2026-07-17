@@ -23,6 +23,7 @@
 +1 Ladder Per Click
 Reborn as Swordsman (NOT FINISHED)
 Build a Base and Steal(NOT FINISHED)
++1 Jetpack for Brainrots
 
 ## ⚠️ Disclaimer
 
